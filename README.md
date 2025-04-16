@@ -1,4 +1,4 @@
-# Scraping-Tables-Tags-using-langchain
+# Scraping-Table-Tags-WebPages-using-langchain
 
 ## Building a **LangChain-powered Table Extractor + LLM Q&A + Downloadable CSV/Excel Generator** deployed on **Streamlit Cloud**. 
 
