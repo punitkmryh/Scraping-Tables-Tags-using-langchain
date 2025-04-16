@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+beautifulsoup4
+pandas
+requests
+faiss-cpu
+sentence-transformers
+openpyxl
+lxml
